@@ -1,0 +1,6 @@
+{
+  "name": "FairShift — Workforce Transparency & Safety Platform",
+  "description": "A multilingual, SDG 8 compliant workforce management platform for transparent attendance, itemized payslips, confidential safety reporting, digital skill passports, and employer compliance insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
